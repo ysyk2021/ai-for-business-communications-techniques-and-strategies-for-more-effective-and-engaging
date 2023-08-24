@@ -1,5 +1,3 @@
-Chapter 7: Managing Ethics and Bias in AI-Enabled Business Communications
-=========================================================================
 
 As the use of artificial intelligence (AI) in business communications continues to grow, it is important for organizations to manage ethics and biases associated with AI-powered communication practices. In this chapter, we will explore the importance of ethical and unbiased business communication practices and strategies for mitigating risks and ensuring compliance.
 

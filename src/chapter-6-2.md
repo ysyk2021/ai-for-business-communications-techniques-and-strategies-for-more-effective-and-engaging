@@ -1,5 +1,3 @@
-Automated Language Detection and Translation using AI
-===================================================================================================================
 
 In today's global economy, businesses need to communicate effectively with customers around the world. However, language barriers can be a significant obstacle to effective communication. To overcome this challenge, many businesses are turning to artificial intelligence (AI) to streamline translation and localization efforts.
 
