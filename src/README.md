@@ -10,3 +10,7 @@ The following chapters will cover a range of topics related to AI for business c
 Whether you are a business professional, marketer, or simply someone interested in effective written communications, "AI for Business Communications" provides valuable insights and practical strategies for leveraging AI to enhance your communications. By the end of this book, you will have a deep understanding of the role of AI in business communications and how it can be used to drive more effective and engaging messaging.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
