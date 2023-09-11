@@ -1,5 +1,4 @@
-Chapter 7: Using AI for Writing Assistance and Editing
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the invaluable role of AI in providing writing assistance and editing services. With the advancements in AI technologies, businesses can leverage AI-powered tools to enhance their writing process, improve the quality of written communications, and ensure accuracy and effectiveness. From grammar and spelling correction to style suggestions and tone optimization, AI brings a new level of efficiency and professionalism to the writing and editing process. Let's delve into the world of using AI for writing assistance and editing.
 

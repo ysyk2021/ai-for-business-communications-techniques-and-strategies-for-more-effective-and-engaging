@@ -1,5 +1,4 @@
-Chapter 10: Mitigating Risks and Ensuring Compliance
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of mitigating risks and ensuring compliance when leveraging AI technologies for business communications. While AI offers numerous benefits in enhancing written communications, it also introduces potential risks related to privacy, security, ethical concerns, and legal compliance. It is crucial for organizations to implement strategies and measures to mitigate these risks and ensure compliance with applicable laws and regulations. Let's delve into the techniques and best practices for mitigating risks and ensuring compliance in AI-powered business communications.
 

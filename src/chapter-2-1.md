@@ -1,5 +1,4 @@
-Chapter 2: Overview of Available Tools and Technologies
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the available tools and technologies that businesses can leverage to enhance their written communications using AI. These tools offer a range of functionalities, from content generation and language analysis to data-driven insights and automation. By understanding the landscape of AI-powered communication tools, organizations can make informed decisions about which ones align best with their business goals and communication strategies. Let's explore some of the key tools and technologies in AI for business communications.
 

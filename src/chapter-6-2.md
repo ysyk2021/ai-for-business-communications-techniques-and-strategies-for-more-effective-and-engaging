@@ -1,5 +1,4 @@
-Chapter 5: Automated Language Detection and Translation using AI
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI-powered automated language detection and translation can revolutionize business communications. As organizations increasingly operate in global markets, effective communication across languages becomes crucial for building relationships, expanding reach, and ensuring clarity. With the advancements in AI technology, businesses can leverage automated language detection and translation tools to break down language barriers and facilitate seamless interactions. Let's delve into the techniques and strategies for utilizing AI in automated language detection and translation.
 
